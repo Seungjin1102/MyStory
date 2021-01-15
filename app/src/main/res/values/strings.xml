@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyStory</string>
+    <string name= "name">이름</string>
+    <string name= "password">비밀번호</string>
+    <string name= "pwck">비밀번호 확인</string>
+    <string name= "user_join">회원가입</string>
+    <string name= "join">가입</string>
+    <string name= "cancle">취소</string>
+    <string name= "ok">확인</string>
+    <string name= "e_mail">이메일</string>
+    <string name= "login">로그인</string>
+    <string name="userjoin">회원가입</string>
+    <string name="gettitle">제목을 입력하세요</string>
+    <string name="writestory">스토리 작성</string>
+    <string name="getcontent">내용을 입력하세요</string>
+    <string name="deleteuserinformation">사용자 정보 삭제</string>
+    <string name="deleteusername">삭제할 사용자의 이름</string>
+    <string name="searchkeyword">검색할 단어를 입력하세요</string>
+    <string name="search">검색</string>
+    <string name="updatestory">스토리 수정</string>
+</resources>
