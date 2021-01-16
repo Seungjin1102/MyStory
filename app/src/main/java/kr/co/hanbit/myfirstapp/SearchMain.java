@@ -45,7 +45,7 @@ public class SearchMain extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         super.onBackPressed();
-        finish();
+        finish();//종료
     }
 
     private void setInit() {
